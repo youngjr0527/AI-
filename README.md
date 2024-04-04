@@ -40,4 +40,5 @@
 ## 수상 내역 🏅
 
 - 'AI 물체인식 기반 자원분류 및 재활용 챌린지' 대회에서 **최우수상** 수상 (2022년 8월 19일)
-
+  
+<img src="https://github.com/youngjr0527/AI-Based-Resource-Sorting-and-Recycling-Challenge/assets/83463280/bb8e86eb-9cec-4db3-9d66-c45d1b4c05e9" width="280" height="480"/>
