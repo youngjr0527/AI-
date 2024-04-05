@@ -15,7 +15,6 @@
 
 ## 파일 구조 📂
 
-
 - **AutonomousDriving/**: 자율 주행 스크립트
   - self_driving_original.py: 초기 자율 주행 코드 
   - self_driving_best.py: 최적화된 자율 주행 코드
